@@ -1,0 +1,9 @@
+Java: 
+Loi khong hieu tai sao cha.y lan mot file report k in ra.
+Lan 2 moi dc
+-- create interface.
+-- javadoc
+-- optimization
+-- exception
+-- Neu co loi thi khong tao file nua...
+
